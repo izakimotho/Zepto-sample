@@ -1,5 +1,5 @@
 # Zepto-sample
-A Sample of Zepto Ransomeware
+A Sample of Zepto Ransomware
 
 ## ZIP File Password
 `this-file-can-harm-your-computer`
